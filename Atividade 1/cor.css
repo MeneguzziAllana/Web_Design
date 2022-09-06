@@ -1,0 +1,22 @@
+body{
+    background-color: #dddddd;
+    
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+h1{
+    color: rgb(0, 255, 132);
+    background-color: rgb(175, 254, 255);
+    font-family: 'DynaPuff', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+li{
+    font-family: 'DynaPuff', cursive;
+}
+
+
+
